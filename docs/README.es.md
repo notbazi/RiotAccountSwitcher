@@ -6,7 +6,7 @@
 
 Selector de cuentas **no oficial** para Riot Client en Windows, creado por **notbazi** con C#, WPF y .NET 10.
 
-> **Versión beta de pruebas privadas.** No cuenta con aprobación de Riot Games ni de los proveedores de catálogos. Las imágenes de los juegos siguen perteneciendo a sus titulares y el cambio de sesiones todavía requiere revisión de las políticas de Riot. Lee los [avisos de terceros](../THIRD_PARTY_NOTICES.md) antes de distribuirlo públicamente.
+> **Beta pública no oficial (úsala bajo tu responsabilidad).** Esta aplicación no está afiliada ni aprobada por Riot Games. Restaura archivos locales de sesión mediante un mecanismo no documentado que Riot no ha confirmado como permitido. Una actualización del cliente podría impedir su funcionamiento; el uso de software de terceros no autorizado puede implicar riesgos para las cuentas. Las imágenes externas pertenecen a sus titulares. Lee los [avisos legales](../THIRD_PARTY_NOTICES.md) y las [recomendaciones de seguridad](../SECURITY.md).
 
 ## Funciones
 
@@ -51,3 +51,5 @@ Todos tus perfiles y sesiones se guardan aparte, en `%LOCALAPPDATA%\RiotSwitcher
 Los catálogos solo se consultan al pulsar su botón. No envían nombres de cuentas, Riot IDs ni claves. El catálogo LoL utiliza Data Dragon; el de VALORANT utiliza Valorant-API, **no oficial**. Las imágenes elegidas se almacenan localmente y no se empaquetan en el `.exe`.
 
 El código y los iconos originales se ofrecen bajo [MIT](../LICENSE). La licencia no concede derechos sobre imágenes de los juegos ni constituye autorización de Riot para el mecanismo de cambio de sesiones. Revisa [avisos legales](../THIRD_PARTY_NOTICES.md), [seguridad](../SECURITY.md) y [comprobaciones para publicar](../PUBLISH_CHECKLIST.md).
+
+**Estado de distribución:** es una beta experimental independiente, no una integración oficial. Publicarla no significa que Riot haya autorizado el mecanismo de cambio de cuentas o el uso de catálogos externos.
