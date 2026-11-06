@@ -10,7 +10,7 @@
 
 - Compact, Steam-inspired account picker with local nicknames and optional display-only Riot IDs.
 - Save/restore locally encrypted Riot Client session snapshots (Windows DPAPI).
-- English and Spanish UI; customizable accent colors and dark Oxocarbon-style appearance.
+- English and Spanish UI; customizable accent colors.
 - **Original, offline game-category icons** and an original application icon.
 - **Optional avatar galleries:** LoL/TFT profile icons from Riot's Data Dragon and VALORANT player cards from the community Valorant-API game-art catalog. Network access is user-initiated; **no account lookups and no OP.GG scraping**.
 - Personal PNG/JPEG imports (max. 1 MB and 2048 × 2048 pixels) and right-click avatar editing.
