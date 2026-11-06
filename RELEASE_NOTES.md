@@ -1,6 +1,6 @@
-# Riot Account Switcher v0.7.0 — private beta candidate
+# Riot Account Switcher v0.7.0 — public beta
 
-> **Do not publish publicly yet.** Third-party game-image conditions and the Riot Client session switching mechanism require review.
+> **Unapproved experimental beta — use at your own risk.** This project is not affiliated with or endorsed by Riot Games. It restores local Riot Client session files using an undocumented mechanism; Riot has not confirmed that this use is permitted. Client updates may break it, and use of unauthorized third-party software may carry account risks. External game imagery belongs to its owners.
 
 ## Changes from v0.6.6
 
@@ -12,7 +12,7 @@
 - Personal Riot IDs are now an optional *display label only*; no server selection needed for image catalogs.
 - Previously saved local avatars remain available. The session encryption, recovery, theme, language, local storage, and Steam-style chooser were not rewritten.
 
-## Testing required
+## Testing recommendations
 
 - Compile v0.7.0 on Windows 11 using `COMPILAR-LIGERO.cmd`.
 - Verify offline icons and local PNG/JPEG import.
@@ -20,4 +20,4 @@
 - Verify new account capture, restoring an existing saved session, recovery, settings, and the portable publish script.
 - Keep the old executable as a fallback while testing. Never delete `%LOCALAPPDATA%\RiotSwitcherAccount`.
 
-This source package was checked structurally but has **not** been built or run as WPF on Windows in the authoring environment.
+The project creator has reported successful Windows testing of v0.7.0. The packaged portable executable should be independently tested before attaching it to this release.
