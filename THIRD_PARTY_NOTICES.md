@@ -1,6 +1,6 @@
 # Third-party rights and publication status
 
-**The source is prepared for private testing. This is not a certification that public distribution is permitted.**
+**Unofficial experimental public beta. The project is not approved by Riot Games; publication does not certify that its methods or third-party assets are permitted. Use at your own risk.**
 
 ## Original assets shipped by this project
 
@@ -22,6 +22,6 @@ The v0.7.0 source **removes all automated OP.GG scraping, HTTP requests and sour
 
 ## Riot Client session switching
 
-The project still restores locally saved sessions through undocumented Riot Client configuration files. This is **not** an official authentication integration, and no authorization for distribution of this mechanism has been established. Review [Riot's developer policies](https://developer.riotgames.com/policies/general) and [legal policy](https://www.riotgames.com/en/legal), then seek clarification/approval if necessary **before** a public release. Do not represent the application as approved or risk-free.
+The project still restores locally saved sessions through undocumented Riot Client configuration files. This is **not** an official authentication integration, and no authorization for distribution of this mechanism has been established. Review [Riot's developer policies](https://developer.riotgames.com/policies/general) and [legal policy](https://www.riotgames.com/en/legal), then seek clarification/approval if necessary when possible, and do not represent the application as approved or risk-free.
 
 Disclaimer: Riot Account Switcher isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties.
