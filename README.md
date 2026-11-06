@@ -6,7 +6,7 @@
 
 ![Riot Account Switcher — Steam-inspired account selector](docs/images/account-selector.png)
 
-> **Beta / private testing:** not endorsed by Riot Games or any catalog provider. The original UI and glyphs can be distributed under this project's license; external game imagery is controlled by its respective rights holders. The session switching mechanism uses private client files and has not been approved by Riot. See [third-party notices](THIRD_PARTY_NOTICES.md) before any public release.
+> **Unofficial public beta (use at your own risk):** This project is not affiliated with, endorsed by, or approved by Riot Games. It restores local Riot Client session files using an undocumented mechanism; Riot has not confirmed that this behavior is permitted. Client updates may break the app, and using unapproved third-party software may carry account-related risks. External game artwork belongs to its respective rights holders. Read [third-party notices](THIRD_PARTY_NOTICES.md) and [security guidance](SECURITY.md) before using.
 
 ## Features
 
@@ -79,4 +79,4 @@ The binary is unsigned; Windows may show an unverified-publisher warning. Don't 
 
 Original source code and symbols are provided under the [MIT license](LICENSE); **the MIT license does not cover Riot game artwork retrieved via third-party catalogs**, nor does it guarantee permission to distribute a client session switcher.
 
-**Public release is on hold pending a review of Riot's developer policies and clearance for the specific account-switching behavior.** See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), [SECURITY.md](SECURITY.md), and [PUBLISH_CHECKLIST.md](PUBLISH_CHECKLIST.md).
+**Distribution note:** This is an independent experimental beta, not an approved Riot authentication integration. The account-switching mechanism and third-party catalog use remain subject to Riot's policies; distribution does not imply permission. Please review [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), [SECURITY.md](SECURITY.md), and [PUBLISH_CHECKLIST.md](PUBLISH_CHECKLIST.md).
