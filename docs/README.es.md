@@ -2,6 +2,8 @@
 
 [Read in English](../README.md)
 
+![Riot Account Switcher — selector de cuentas](images/account-selector.png)
+
 Selector de cuentas **no oficial** para Riot Client en Windows, creado por **notbazi** con C#, WPF y .NET 10.
 
 > **Versión beta de pruebas privadas.** No cuenta con aprobación de Riot Games ni de los proveedores de catálogos. Las imágenes de los juegos siguen perteneciendo a sus titulares y el cambio de sesiones todavía requiere revisión de las políticas de Riot. Lee los [avisos de terceros](../THIRD_PARTY_NOTICES.md) antes de distribuirlo públicamente.
@@ -14,6 +16,18 @@ Selector de cuentas **no oficial** para Riot Client en Windows, creado por **not
 - Iconos originales incluidos que funcionan sin conexión.
 - Galería **opcional** de iconos de LoL/TFT mediante Data Dragon de Riot y de tarjetas de VALORANT mediante el catálogo comunitario Valorant-API.
 - Importación de PNG/JPEG personalizados; ya **no se usa OP.GG ni se busca al jugador automáticamente**.
+
+## Capturas de pantalla
+
+| Agregar cuenta | Personalizar ajustes |
+|:--:|:--:|
+| ![Ventana para agregar una cuenta](images/add-account.png) | ![Ajustes de idioma y acentuación](images/settings.png) |
+
+**Elegir avatar:** selecciona uno de los iconos originales incluidos o abre voluntariamente los catálogos externos de imágenes del juego.
+
+![Galería de avatares originales](images/avatar-gallery.png)
+
+*Las capturas muestran cuentas de ejemplo e iconos originales. Las ilustraciones disponibles en los catálogos externos no se incluyen en estas capturas ni en los paquetes del programa.*
 
 ## Uso
 

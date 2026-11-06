@@ -4,6 +4,8 @@
 
 [Leer en español](docs/README.es.md)
 
+![Riot Account Switcher — Steam-inspired account selector](docs/images/account-selector.png)
+
 > **Beta / private testing:** not endorsed by Riot Games or any catalog provider. The original UI and glyphs can be distributed under this project's license; external game imagery is controlled by its respective rights holders. The session switching mechanism uses private client files and has not been approved by Riot. See [third-party notices](THIRD_PARTY_NOTICES.md) before any public release.
 
 ## Features
@@ -15,6 +17,18 @@
 - **Optional avatar galleries:** LoL/TFT profile icons from Riot's Data Dragon and VALORANT player cards from the community Valorant-API game-art catalog. Network access is user-initiated; **no account lookups and no OP.GG scraping**.
 - Personal PNG/JPEG imports (max. 1 MB and 2048 × 2048 pixels) and right-click avatar editing.
 - Optional standalone portable Windows x64 build.
+
+## Screenshots
+
+| Add an account | Customize settings |
+|:--:|:--:|
+| ![Add account window](docs/images/add-account.png) | ![Language and accent settings](docs/images/settings.png) |
+
+**Choose an avatar** — use one of the original offline symbols or optionally browse supported external game-art catalogs.
+
+![Original avatar gallery](docs/images/avatar-gallery.png)
+
+*Screenshots show demonstration accounts and original bundled icons. The game artwork available through optional external catalogs is not included in this repository's screenshots or releases.*
 
 ## Use
 
