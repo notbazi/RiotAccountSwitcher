@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g fill="none" stroke="#FFFFFF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M118 204 A162 162 0 0 1 374 136"/>
+  <path d="M368 92 L389 145 L331 148"/>
+  <path d="M386 286 A162 162 0 0 1 134 356"/>
+  <path d="M143 398 L124 347 L181 345"/>
+</g>
+<!-- Generic rounded boxing fist: three curved knuckles, rounded outer palm and separate thumb. -->
+<g fill="#FFFFFF">
+<rect x="184" y="195" width="46" height="94" rx="21"/>
+<rect x="231" y="179" width="46" height="110" rx="21"/>
+<rect x="278" y="191" width="46" height="98" rx="21"/>
+<path d="M178 250 C160 256 156 280 168 298 L208 348 C217 359 231 363 245 363 L297 363 C324 363 346 342 346 316 L346 268 C346 247 328 231 312 231 L305 288 L215 288 L197 265 C191 256 184 251 178 250 Z"/>
+</g>
+<!-- simple secondary profile glyph -->
+<circle cx="383" cy="381" r="25" fill="#FFFFFF" stroke="#142035" stroke-width="5"/>
+<path d="M337 445 Q340 417 383 417 Q427 417 430 445Z" fill="#FFFFFF" stroke="#142035" stroke-width="5"/>
+</svg>

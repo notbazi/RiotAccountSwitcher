@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>RiotSwitcherAccount</AssemblyName>
+    <RootNamespace>RiotSwitcherAccount</RootNamespace>
+    <Authors>notbazi</Authors>
+    <Product>Riot Account Switcher</Product>
+    <Version>0.7.0</Version>
+    <ApplicationIcon>Assets\app.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="Assets\avatar-neutral.png" />
+    <Resource Include="Assets\avatar-league.png" />
+    <Resource Include="Assets\avatar-valorant.png" />
+    <Resource Include="Assets\avatar-tft.png" />
+    <Resource Include="Assets\app-icon.png" />
+    <Resource Include="Assets\app-icon-header.png" />
+  </ItemGroup>
+</Project>

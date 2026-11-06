@@ -1,0 +1,37 @@
+# Build output / local tooling
+**/bin/
+**/obj/
+dist/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.log
+*.dmp
+
+# User data and authentication material -- never commit!
+**/profiles.json
+**/*.session.bin
+**/last-recovery.bin
+**/RiotGamesPrivateSettings.yaml
+**/RiotClientPrivateSettings.yaml
+**/diagnostics/
+**/icons/
+**/*.riotswitcher.tmp
+**/*.oxocarbon.tmp
+
+# Local secrets, exports, signing files
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+*.snk
+*.bak
+*.backup
+
+# Output packages
+*.zip
+*.7z
